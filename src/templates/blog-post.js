@@ -54,7 +54,7 @@ const Post = ({ data, pageContext }) => {
             <h1>{frontmatter.title}</h1>
             <time>{frontmatter.date}</time>
           </section>
-          {Image ? (
+          {/* {Image ? (
             <Img 
               fluid={Image} 
               objectFit="cover"
@@ -62,7 +62,7 @@ const Post = ({ data, pageContext }) => {
               alt={frontmatter.title + ' - Featured image'}
               className="featured-image"
             />
-          ) : ""}
+          ) : ""} */}
         </header>
         
         <div

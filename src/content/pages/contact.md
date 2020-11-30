@@ -3,6 +3,4 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Need to contact us to find out more or book an event? Please fill the form. We are happy to talk. You can also call us on the following numbers 08036870530, 08072645951, 07045187697.

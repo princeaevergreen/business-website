@@ -1,9 +1,12 @@
 ---
 template: blog-post
-title: Extreme gaming extravaganza
-slug: /gaming-extravaganza
+title: Photobook - Traditional Wedding
+slug: /photobook-traditional-wedding-1
 date: 2020-05-13 12:55
-description: How we scaled an Extreme gaming extravaganza
-featuredImage: /assets/fredrick-tendong-hvyepjyehdq-unsplash.jpg
+description: Photobook of traditional wedding
+featuredImage: /assets/feature-photobk1.png
 ---
-My Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White ShoesMy Pretty White Shoes
+![Feature image](/assets/smallfeat-pb1.png "Feature image")
+![Bride photo book](/assets/bride-photobk1.png "Bride photo book")
+![Groom photo book](/assets/groom-photobk1.png "Groom photo book")
+![Couple photo book](/assets/couple-photobk1.png "Couple photo book")
