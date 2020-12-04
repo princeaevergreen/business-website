@@ -7,6 +7,8 @@ import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
 import SEO from "../components/seo"
 
+import logoimg from "../assets/images/logogrn.png";
+
 export const pageQuery = graphql`
   query HomeQuery($id: String!){
 		markdownRemark(id: { eq: $id }) {
@@ -43,6 +45,14 @@ const HomePage = ({ data }) => {
       <SEO/>
       <div className="home-banner grids col-1 sm-2">
         <div>
+        <div style={{width: "100%", display: "flex", justifyContent: "center", padding: "20px"}}>
+        <img 
+              src={logoimg} 
+              alt="Logo"
+              //className="featured-image"
+              style={{height: "150px", width: "auto"}}
+            />
+            </div>
           <h1 class="title">{frontmatter.title}</h1>
           <p class="tagline">{frontmatter.tagline}</p>
           <div className="description" dangerouslySetInnerHTML={{__html: html}}/>
