@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Prince Evergreen
 tagline: Professional photographer
-featuredImage: /assets/homeimage.png
+featuredImage: /assets/Homeimg2.JPG
 cta:
   ctaText: Know more
   ctaLink: /about
