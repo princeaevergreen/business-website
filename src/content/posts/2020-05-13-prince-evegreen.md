@@ -4,7 +4,7 @@ title: Prince Evergreen
 slug: /princeaaboh
 date: 2020-12-07 23:40
 description: Wedding photos
-featuredImage: /assets/prince-tm-feat.png
+featuredImage: /assets/Homeimg2.JPG
 ---
 ![Feature image](/assets/prince-tm-feat.png "Feature image")
 ![Prince](/assets/prince-tm-2.png "Prince")

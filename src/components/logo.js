@@ -6,7 +6,7 @@ const Logo = props => (
   <div className="site-logo">
     <Link style={{ display: "flex", alignItems: "center" }} to="/">
       <img 
-      style={{height: "60px", width: "auto"}}  
+      style={{height: "60px", width: "100%"}}  
       src={logobg}
         alt="Logo"
       />
